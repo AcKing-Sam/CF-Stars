@@ -22,3 +22,6 @@ https://codeforces.com/problemset/problem/1814/C [greedy solution](https://www.c
 https://codeforces.com/problemset/problem/1904/D1 [solution](https://blog.csdn.net/Code_Shark/article/details/135031395)
 
 https://codeforces.com/problemset/problem/1862/E [greedy solution](https://blog.csdn.net/TKKDOUZI/article/details/132658268)
+
+https://codeforces.com/problemset/problem/1899/F [solution](https://www.acwing.com/solution/content/215332/)
+
