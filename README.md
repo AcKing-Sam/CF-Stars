@@ -25,3 +25,7 @@ https://codeforces.com/problemset/problem/1862/E [greedy solution](https://blog.
 
 https://codeforces.com/problemset/problem/1899/F [solution](https://www.acwing.com/solution/content/215332/)
 
+https://codeforces.com/problemset/problem/1801/A [solution](https://blog.csdn.net/Linux_dow/article/details/129461645)
+
+https://codeforces.com/problemset/problem/1806/C [solution](https://blog.csdn.net/m0_53089164/article/details/129644433#t8)
+
