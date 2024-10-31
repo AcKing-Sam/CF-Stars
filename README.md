@@ -29,3 +29,5 @@ https://codeforces.com/problemset/problem/1801/A [solution](https://blog.csdn.ne
 
 https://codeforces.com/problemset/problem/1806/C [solution](https://blog.csdn.net/m0_53089164/article/details/129644433#t8)
 
+https://codeforces.com/problemset/problem/1707/A [solution](https://www.cnblogs.com/Sakura-TJH/p/16485973.html)
+
