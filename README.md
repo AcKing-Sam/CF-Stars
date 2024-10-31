@@ -31,3 +31,5 @@ https://codeforces.com/problemset/problem/1806/C [solution](https://blog.csdn.ne
 
 https://codeforces.com/problemset/problem/1707/A [solution](https://www.cnblogs.com/Sakura-TJH/p/16485973.html)
 
+https://codeforces.com/problemset/problem/1671/D [solution](https://www.cnblogs.com/Reanap/p/16269129.html)
+
