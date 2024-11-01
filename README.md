@@ -33,3 +33,9 @@ https://codeforces.com/problemset/problem/1707/A [solution](https://www.cnblogs.
 
 https://codeforces.com/problemset/problem/1671/D [solution](https://www.cnblogs.com/Reanap/p/16269129.html)
 
+https://codeforces.com/contest/1603/problem/B [solution](https://codeforces.com/blog/entry/96460)
+
+https://codeforces.com/problemset/problem/1555/D [solution](https://blog.csdn.net/qq_43657674/article/details/119260264)
+
+
+
