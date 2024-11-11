@@ -43,6 +43,7 @@ https://codeforces.com/problemset/problem/1582/D [solution](https://www.acwing.c
 
 https://codeforces.com/problemset/problem/1017/C
 
+https://codeforces.com/problemset/problem/856/A [solution](https://blog.csdn.net/u012602144/article/details/78036651)
 https://codeforces.com/problemset/problem/1555/D [solution](https://blog.csdn.net/qq_43657674/article/details/119260264)
 
 
