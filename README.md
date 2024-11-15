@@ -49,5 +49,6 @@ https://codeforces.com/problemset/problem/1555/D [solution](https://blog.csdn.ne
 
 https://codeforces.com/problemset/problem/1555/D
 
+https://codeforces.com/problemset/problem/1503/A [solution](https://www.acwing.com/solution/content/164821/)
 
 
