@@ -51,4 +51,5 @@ https://codeforces.com/problemset/problem/1555/D
 
 https://codeforces.com/problemset/problem/1503/A [solution](https://www.acwing.com/solution/content/164821/)
 
-
+## 1700
+https://codeforces.com/problemset/problem/1325/D [solution](https://www.cnblogs.com/stelayuri/p/12495726.html)
