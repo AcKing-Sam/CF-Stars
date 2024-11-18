@@ -57,3 +57,5 @@ https://codeforces.com/problemset/problem/1325/D [solution](https://www.cnblogs.
 https://codeforces.com/problemset/problem/1945/E [solution](https://blog.csdn.net/2302_80585579/article/details/137963742)
 
 https://codeforces.com/problemset/problem/1849/D [solution](https://www.acwing.com/solution/content/247240/)
+
+https://codeforces.com/problemset/problem/1688/C [solution](https://blog.csdn.net/weixin_61904259/article/details/125789252)
