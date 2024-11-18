@@ -55,3 +55,5 @@ https://codeforces.com/problemset/problem/1503/A [solution](https://www.acwing.c
 https://codeforces.com/problemset/problem/1325/D [solution](https://www.cnblogs.com/stelayuri/p/12495726.html)
 
 https://codeforces.com/problemset/problem/1945/E [solution](https://blog.csdn.net/2302_80585579/article/details/137963742)
+
+https://codeforces.com/problemset/problem/1849/D [solution](https://www.acwing.com/solution/content/247240/)
