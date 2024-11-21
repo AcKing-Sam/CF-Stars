@@ -63,3 +63,5 @@ https://codeforces.com/problemset/problem/1688/C [solution](https://blog.csdn.ne
 https://codeforces.com/problemset/problem/1684/D [solution](https://blog.csdn.net/Sherlock_Holmewei/article/details/124958387)
 
 https://codeforces.com/problemset/problem/1658/C [solution](https://www.acwing.com/solution/content/166734/)
+
+https://codeforces.com/problemset/problem/1516/C [solution](https://www.acwing.com/solution/content/209580/)
