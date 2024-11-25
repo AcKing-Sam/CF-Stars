@@ -67,3 +67,5 @@ https://codeforces.com/problemset/problem/1658/C [solution](https://www.acwing.c
 https://codeforces.com/problemset/problem/1516/C [solution](https://www.acwing.com/solution/content/209580/)
 
 https://codeforces.com/problemset/problem/1469/D [solution](https://www.acwing.com/solution/content/171257/)
+
+https://codeforces.com/problemset/problem/1889/B [solution](https://www.acwing.com/solution/content/132992/)
