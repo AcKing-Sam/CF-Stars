@@ -75,3 +75,5 @@ https://codeforces.com/problemset/problem/275/B [solution](https://www.cnblogs.c
 https://codeforces.com/problemset/problem/1085/D [solution](https://blog.csdn.net/Miracle_QSH/article/details/85229901)
 
 https://codeforces.com/problemset/problem/1332/D [solution](https://blog.csdn.net/Littlewhite520/article/details/105244608)
+
+https://codeforces.com/problemset/problem/1706/D1 [solution](https://blog.csdn.net/qq_45554473/article/details/127872291)
