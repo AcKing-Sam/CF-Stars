@@ -77,3 +77,7 @@ https://codeforces.com/problemset/problem/1085/D [solution](https://blog.csdn.ne
 https://codeforces.com/problemset/problem/1332/D [solution](https://blog.csdn.net/Littlewhite520/article/details/105244608)
 
 https://codeforces.com/problemset/problem/1706/D1 [solution](https://blog.csdn.net/qq_45554473/article/details/127872291)
+
+
+## 2100
+https://codeforces.com/contest/1868/problem/B2 [solution](https://www.cnblogs.com/cjjsb/p/17694388.html)
