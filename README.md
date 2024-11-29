@@ -82,6 +82,8 @@ https://codeforces.com/problemset/problem/1893/B [solution](https://www.cnblogs.
 
 https://codeforces.com/problemset/problem/1253/D [solution](https://blog.csdn.net/ZCMU_2024/article/details/103180498)
 
+https://codeforces.com/problemset/problem/739/A [solution](https://blog.csdn.net/V5ZSQ/article/details/79859483)
+
 
 ## 2100
 https://codeforces.com/contest/1868/problem/B2 [solution](https://www.cnblogs.com/cjjsb/p/17694388.html)
