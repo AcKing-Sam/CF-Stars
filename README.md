@@ -1,13 +1,13 @@
 # CF-Stars
 
 ## 1400
-https://codeforces.com/problemset/problem/1909/C
+https://codeforces.com/problemset/problem/1909/C [solution](https://www.cnblogs.com/Vanilla-chan/p/17924426.html)
 
-https://codeforces.com/problemset/problem/1901/C
+https://codeforces.com/problemset/problem/1901/C [solution](https://www.acwing.com/solution/content/248915/)
 
-https://codeforces.com/problemset/problem/1772/D
+https://codeforces.com/problemset/problem/1772/D [solution](https://www.cnblogs.com/DM11/p/17027158.html)
 
-https://codeforces.com/problemset/problem/1833/D
+https://codeforces.com/problemset/problem/1833/D [solution]()
 
 ## 1500
 https://codeforces.com/problemset/problem/1891/C
