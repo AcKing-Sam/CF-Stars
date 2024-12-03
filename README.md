@@ -88,5 +88,8 @@ https://codeforces.com/problemset/problem/260/C [solution](https://blog.csdn.net
 
 https://codeforces.com/problemset/problem/1618/E [solution](https://www.acwing.com/solution/content/167129/)
 
+## 1800
+https://codeforces.com/problemset/problem/1554/D [solution](https://blog.csdn.net/m0_51780913/article/details/120266317)
+
 ## 2100
 https://codeforces.com/contest/1868/problem/B2 [solution](https://www.cnblogs.com/cjjsb/p/17694388.html)
