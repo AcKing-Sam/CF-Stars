@@ -9,6 +9,8 @@ https://codeforces.com/problemset/problem/1772/D [solution](https://www.cnblogs.
 
 https://codeforces.com/problemset/problem/1833/D [solution]()
 
+https://codeforces.com/problemset/problem/1375/C [solution](https://blog.csdn.net/weixin_49082066/article/details/107233113)
+
 ## 1500
 https://codeforces.com/problemset/problem/1891/C
 
