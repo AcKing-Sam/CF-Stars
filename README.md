@@ -11,6 +11,8 @@ https://codeforces.com/problemset/problem/1833/D [solution]()
 
 https://codeforces.com/problemset/problem/1375/C [solution](https://blog.csdn.net/weixin_49082066/article/details/107233113)
 
+https://codeforces.com/problemset/problem/1365/C [solution](https://www.acwing.com/solution/content/14431/)
+
 ## 1500
 https://codeforces.com/problemset/problem/1891/C
 
