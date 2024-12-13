@@ -1,5 +1,9 @@
 # CF-Stars
 
+## TODO
+https://codeforces.com/problemset/problem/2040/D
+https://codeforces.com/problemset/problem/2040/E
+
 ## 1400
 https://codeforces.com/problemset/problem/1909/C [solution](https://www.cnblogs.com/Vanilla-chan/p/17924426.html)
 
