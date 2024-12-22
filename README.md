@@ -110,5 +110,7 @@ https://codeforces.com/problemset/problem/1709/C [solution](https://blog.csdn.ne
 
 https://codeforces.com/problemset/problem/2042/C [solution](https://www.cnblogs.com/NIYAXIMEN/p/18590793)
 
+https://codeforces.com/problemset/problem/1396/B
+
 ## 2100
 https://codeforces.com/contest/1868/problem/B2 [solution](https://www.cnblogs.com/cjjsb/p/17694388.html)
