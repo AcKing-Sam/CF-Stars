@@ -112,5 +112,8 @@ https://codeforces.com/problemset/problem/2042/C [solution](https://www.cnblogs.
 
 https://codeforces.com/problemset/problem/1396/B
 
+## 1900
+https://codeforces.com/problemset/problem/1375/D [solution](https://blog.csdn.net/tomjobs/article/details/107147334)
+
 ## 2100
 https://codeforces.com/contest/1868/problem/B2 [solution](https://www.cnblogs.com/cjjsb/p/17694388.html)
