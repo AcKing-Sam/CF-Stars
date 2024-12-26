@@ -117,5 +117,7 @@ https://codeforces.com/problemset/problem/1995/C [solution](https://www.cnblogs.
 ## 1900
 https://codeforces.com/problemset/problem/1375/D [solution](https://blog.csdn.net/tomjobs/article/details/107147334)
 
+https://codeforces.com/problemset/problem/1348/D [solution](https://blog.csdn.net/starlet_kiss/article/details/105899735)
+
 ## 2100
 https://codeforces.com/contest/1868/problem/B2 [solution](https://www.cnblogs.com/cjjsb/p/17694388.html)
