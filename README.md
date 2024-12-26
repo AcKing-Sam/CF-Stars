@@ -112,6 +112,8 @@ https://codeforces.com/problemset/problem/2042/C [solution](https://www.cnblogs.
 
 https://codeforces.com/problemset/problem/1396/B
 
+https://codeforces.com/problemset/problem/1995/C [solution](https://www.cnblogs.com/luckyblock/p/18319949#c)  math
+
 ## 1900
 https://codeforces.com/problemset/problem/1375/D [solution](https://blog.csdn.net/tomjobs/article/details/107147334)
 
