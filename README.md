@@ -103,6 +103,8 @@ https://codeforces.com/problemset/problem/260/C [solution](https://blog.csdn.net
 
 https://codeforces.com/problemset/problem/1618/E [solution](https://www.acwing.com/solution/content/167129/)
 
+https://codeforces.com/problemset/problem/1916/D [solution](https://blog.csdn.net/m0_59954214/article/details/138723629)
+
 ## 1800
 https://codeforces.com/problemset/problem/1554/D [solution](https://blog.csdn.net/m0_51780913/article/details/120266317)
 
