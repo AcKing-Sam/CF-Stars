@@ -123,5 +123,7 @@ https://codeforces.com/problemset/problem/1375/D [solution](https://blog.csdn.ne
 
 https://codeforces.com/problemset/problem/1348/D [solution](https://blog.csdn.net/starlet_kiss/article/details/105899735)
 
+https://codeforces.com/problemset/problem/1365/E [solution](https://blog.csdn.net/mrcrack/article/details/106635598)
+
 ## 2100
 https://codeforces.com/contest/1868/problem/B2 [solution](https://www.cnblogs.com/cjjsb/p/17694388.html)
