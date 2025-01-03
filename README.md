@@ -129,5 +129,7 @@ https://codeforces.com/problemset/problem/1527/B2 [solution](https://www.cnblogs
 
 https://codeforces.com/problemset/problem/1620/E [solution](https://blog.csdn.net/SGDBS233/article/details/122936964)
 
+https://codeforces.com/problemset/problem/1656/D [solution](https://blog.csdn.net/weixin_43823753/article/details/123744243)
+
 ## 2100
 https://codeforces.com/contest/1868/problem/B2 [solution](https://www.cnblogs.com/cjjsb/p/17694388.html)
