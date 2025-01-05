@@ -120,6 +120,8 @@ https://codeforces.com/problemset/problem/1758/D [solution](https://blog.csdn.ne
 
 https://codeforces.com/problemset/problem/459/C [solution](https://www.cnblogs.com/KirinSB/p/10375794.html) how to construct $k^d$
 
+https://codeforces.com/problemset/problem/1705/D [solution](https://www.cnblogs.com/cjjsb/p/16578319.html#d-mark-and-lightbulbs)
+
 ## 1900
 https://codeforces.com/problemset/problem/1375/D [solution](https://blog.csdn.net/tomjobs/article/details/107147334)
 
