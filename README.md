@@ -114,9 +114,11 @@ https://codeforces.com/problemset/problem/2042/C [solution](https://www.cnblogs.
 
 https://codeforces.com/problemset/problem/1396/B
 
-https://codeforces.com/problemset/problem/1995/C [solution](https://www.cnblogs.com/luckyblock/p/18319949#c)  math
+https://codeforces.com/problemset/problem/1995/C [solution](https://www.cnblogs.com/luckyblock/p/18319949#c) math
 
 https://codeforces.com/problemset/problem/1758/D [solution](https://blog.csdn.net/weixin_40986490/article/details/128151197) math
+
+https://codeforces.com/problemset/problem/459/C [solution](https://www.cnblogs.com/KirinSB/p/10375794.html) how to construct $k^d$
 
 ## 1900
 https://codeforces.com/problemset/problem/1375/D [solution](https://blog.csdn.net/tomjobs/article/details/107147334)
