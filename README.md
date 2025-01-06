@@ -5,13 +5,6 @@ https://codeforces.com/problemset/problem/2040/D
 
 https://codeforces.com/problemset/problem/2040/E
 
-## 1400
-https://codeforces.com/problemset/problem/1909/C [solution](https://www.cnblogs.com/Vanilla-chan/p/17924426.html)
-
-https://codeforces.com/problemset/problem/1901/C [solution](https://www.acwing.com/solution/content/248915/)
-
-https://codeforces.com/problemset/problem/1772/D [solution](https://www.cnblogs.com/DM11/p/17027158.html)
-
 ## 1500
 https://codeforces.com/problemset/problem/1891/C
 
