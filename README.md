@@ -122,6 +122,8 @@ https://codeforces.com/problemset/problem/459/C [solution](https://www.cnblogs.c
 
 https://codeforces.com/problemset/problem/1705/D [solution](https://www.cnblogs.com/cjjsb/p/16578319.html#d-mark-and-lightbulbs)
 
+https://codeforces.com/problemset/problem/1935/C [solution](https://www.acwing.com/solution/content/249004/) dp
+
 ## 1900
 https://codeforces.com/problemset/problem/1375/D [solution](https://blog.csdn.net/tomjobs/article/details/107147334)
 
