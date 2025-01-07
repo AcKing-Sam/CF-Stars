@@ -18,8 +18,6 @@ https://codeforces.com/problemset/problem/1325/C [solution](https://blog.csdn.ne
 
 https://codeforces.com/problemset/problem/282/C [solution](https://blog.csdn.net/cc_again/article/details/8681387)
 
-https://codeforces.com/problemset/problem/1283/C [solution](https://www.cnblogs.com/cookiecheetah/p/13907476.html)
-
 ## 1600
 https://codeforces.com/problemset/problem/1904/D1 [solution](https://blog.csdn.net/Code_Shark/article/details/135031395)
 
