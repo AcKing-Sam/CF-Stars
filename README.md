@@ -12,10 +12,6 @@ https://codeforces.com/problemset/problem/1809/C [solution](https://zhuanlan.zhi
 
 https://codeforces.com/problemset/problem/1542/B [solution](https://blog.csdn.net/qq_64403486/article/details/123615312)
 
-https://codeforces.com/problemset/problem/1814/C [greedy solution](https://www.cnblogs.com/cjjsb/p/17316482.html#c-search-in-parallel) 
-
-https://codeforces.com/problemset/problem/1325/C [solution](https://blog.csdn.net/qq_43756519/article/details/104872392)
-
 ## 1600
 https://codeforces.com/problemset/problem/1904/D1 [solution](https://blog.csdn.net/Code_Shark/article/details/135031395)
 
