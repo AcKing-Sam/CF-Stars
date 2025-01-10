@@ -12,11 +12,7 @@ https://codeforces.com/problemset/problem/1862/E [greedy solution](https://blog.
 
 https://codeforces.com/problemset/problem/1899/F [solution](https://www.acwing.com/solution/content/215332/)
 
-https://codeforces.com/problemset/problem/1801/A [solution](https://blog.csdn.net/Linux_dow/article/details/129461645)
-
 https://codeforces.com/problemset/problem/1806/C [solution](https://blog.csdn.net/m0_53089164/article/details/129644433#t8)
-
-https://codeforces.com/problemset/problem/1707/A [solution](https://www.cnblogs.com/Sakura-TJH/p/16485973.html)
 
 https://codeforces.com/problemset/problem/1671/D [solution](https://www.cnblogs.com/Reanap/p/16269129.html)
 
@@ -26,13 +22,9 @@ https://codeforces.com/problemset/problem/1582/D [solution](https://www.acwing.c
 
 https://codeforces.com/problemset/problem/1017/C
 
-https://codeforces.com/problemset/problem/856/A [solution](https://blog.csdn.net/u012602144/article/details/78036651)
-
 https://codeforces.com/problemset/problem/1555/D [solution](https://blog.csdn.net/qq_43657674/article/details/119260264)
 
 https://codeforces.com/problemset/problem/1555/D
-
-https://codeforces.com/problemset/problem/1503/A [solution](https://www.acwing.com/solution/content/164821/)
 
 https://codeforces.com/contest/768/problem/B [solution](https://blog.csdn.net/qq_34896694/article/details/56496573)
 
