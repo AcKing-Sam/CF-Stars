@@ -22,10 +22,6 @@ https://codeforces.com/problemset/problem/1582/D [solution](https://www.acwing.c
 
 https://codeforces.com/problemset/problem/1017/C
 
-https://codeforces.com/problemset/problem/1555/D [solution](https://blog.csdn.net/qq_43657674/article/details/119260264)
-
-https://codeforces.com/problemset/problem/1555/D
-
 https://codeforces.com/contest/768/problem/B [solution](https://blog.csdn.net/qq_34896694/article/details/56496573)
 
 https://codeforces.com/problemset/problem/1327/C [solution](https://blog.csdn.net/aezakmias/article/details/105104795)
