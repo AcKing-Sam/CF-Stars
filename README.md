@@ -90,6 +90,8 @@ https://codeforces.com/problemset/problem/1935/C [solution](https://www.acwing.c
 
 https://codeforces.com/problemset/problem/1477/A [solution](https://blog.csdn.net/zzq0523/article/details/113777886) math
 
+https://codeforces.com/problemset/problem/1090/D [solution](https://www.cnblogs.com/dilthey/p/10092161.html) greedy
+
 ## 1900
 https://codeforces.com/problemset/problem/1375/D [solution](https://blog.csdn.net/tomjobs/article/details/107147334)
 
