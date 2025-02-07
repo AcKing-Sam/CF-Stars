@@ -67,6 +67,8 @@ https://codeforces.com/problemset/problem/1916/D [solution](https://blog.csdn.ne
 
 https://codeforces.com/problemset/problem/1554/B [solution](https://blog.csdn.net/INGg__/article/details/119299898)
 
+https://codeforces.com/problemset/problem/1343/D [solution](https://blog.csdn.net/qq_45458915/article/details/105682206)
+
 ## 1800
 https://codeforces.com/problemset/problem/1554/D [solution](https://blog.csdn.net/m0_51780913/article/details/120266317)
 
