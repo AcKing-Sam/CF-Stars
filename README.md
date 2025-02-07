@@ -26,6 +26,8 @@ https://codeforces.com/contest/768/problem/B [solution](https://blog.csdn.net/qq
 
 https://codeforces.com/problemset/problem/1327/C [solution](https://blog.csdn.net/aezakmias/article/details/105104795)
 
+https://codeforces.com/problemset/problem/1687/A [solution](https://www.bilibili.com/opus/727487921631789109)
+
 ## 1700
 https://codeforces.com/problemset/problem/1325/D [solution](https://www.cnblogs.com/stelayuri/p/12495726.html)
 
