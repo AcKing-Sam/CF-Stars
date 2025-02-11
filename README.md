@@ -109,7 +109,7 @@ https://codeforces.com/problemset/problem/1620/E [solution](https://blog.csdn.ne
 
 https://codeforces.com/problemset/problem/1656/D [solution](https://blog.csdn.net/weixin_43823753/article/details/123744243)
 
-https://codeforces.com/problemset/problem/862/C
+https://codeforces.com/problemset/problem/862/C [solution](https://blog.csdn.net/lj130lj/article/details/78629481)
 
 ## 2100
 https://codeforces.com/contest/1868/problem/B2 [solution](https://www.cnblogs.com/cjjsb/p/17694388.html)
