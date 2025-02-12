@@ -8,13 +8,9 @@ https://codeforces.com/problemset/problem/2040/E
 https://codeforces.com/contest/1904/problem/D2
 
 ## 1600
-https://codeforces.com/problemset/problem/1862/E [greedy solution](https://blog.csdn.net/TKKDOUZI/article/details/132658268)
-
 https://codeforces.com/problemset/problem/1899/F [solution](https://www.acwing.com/solution/content/215332/)
 
-https://codeforces.com/problemset/problem/1806/C [solution](https://blog.csdn.net/m0_53089164/article/details/129644433#t8)
-
-https://codeforces.com/problemset/problem/1671/D [solution](https://www.cnblogs.com/Reanap/p/16269129.html)
+https://codeforces.com/problemset/problem/1671/D [solution](https://zhuanlan.zhihu.com/p/503401313) *
 
 https://codeforces.com/contest/1603/problem/B [solution](https://codeforces.com/blog/entry/96460)
 
