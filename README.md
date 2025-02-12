@@ -16,7 +16,7 @@ https://codeforces.com/contest/1603/problem/B [solution](https://codeforces.com/
 
 https://codeforces.com/problemset/problem/1582/D [solution](https://www.acwing.com/solution/content/163709/)
 
-https://codeforces.com/problemset/problem/1017/C
+https://codeforces.com/problemset/problem/1017/C [solution](https://cloud.tencent.com/developer/article/1707306)
 
 https://codeforces.com/contest/768/problem/B [solution](https://blog.csdn.net/qq_34896694/article/details/56496573)
 
