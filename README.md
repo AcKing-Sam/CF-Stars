@@ -8,8 +8,6 @@ https://codeforces.com/problemset/problem/2040/E
 https://codeforces.com/contest/1904/problem/D2
 
 ## 1600
-https://codeforces.com/problemset/problem/1899/F [solution](https://www.acwing.com/solution/content/215332/)
-
 https://codeforces.com/problemset/problem/1671/D [solution](https://zhuanlan.zhihu.com/p/503401313) *
  
 https://codeforces.com/contest/1603/problem/B [solution](https://codeforces.com/blog/entry/96460) *
