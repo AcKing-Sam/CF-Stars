@@ -93,6 +93,8 @@ https://codeforces.com/problemset/problem/1656/D [solution](https://blog.csdn.ne
 
 https://codeforces.com/problemset/problem/862/C [solution](https://blog.csdn.net/lj130lj/article/details/78629481)
 
+https://codeforces.com/problemset/problem/1704/D [solution](https://blog.csdn.net/Bananaaay/article/details/126097699)
+
 ## 2000
 https://codeforces.com/problemset/problem/1951/D [solution](https://www.cnblogs.com/qiujianACM/p/18120234) greedy
 
