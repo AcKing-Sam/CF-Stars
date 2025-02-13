@@ -93,6 +93,8 @@ https://codeforces.com/problemset/problem/862/C [solution](https://blog.csdn.net
 
 https://codeforces.com/problemset/problem/1704/D [solution](https://blog.csdn.net/Bananaaay/article/details/126097699)
 
+https://codeforces.com/contest/1237/problem/C2 [solution](https://blog.csdn.net/weixin_44751481/article/details/102604601) geometry *
+
 ## 2000
 https://codeforces.com/problemset/problem/1951/D [solution](https://www.cnblogs.com/qiujianACM/p/18120234) greedy
 
