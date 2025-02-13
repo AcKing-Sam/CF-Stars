@@ -14,21 +14,9 @@ https://codeforces.com/problemset/problem/1671/D [solution](https://zhuanlan.zhi
  
 https://codeforces.com/contest/1603/problem/B [solution](https://codeforces.com/blog/entry/96460) *
 
-https://codeforces.com/problemset/problem/1582/D [solution](https://www.acwing.com/solution/content/163709/)
-
-https://codeforces.com/problemset/problem/1017/C [solution](https://cloud.tencent.com/developer/article/1707306)
-
-https://codeforces.com/contest/768/problem/B [solution](https://blog.csdn.net/qq_34896694/article/details/56496573)
-
-https://codeforces.com/problemset/problem/1327/C [solution](https://blog.csdn.net/aezakmias/article/details/105104795)
-
 https://codeforces.com/problemset/problem/1687/A [solution](https://www.bilibili.com/opus/727487921631789109)
 
 ## 1700
-https://codeforces.com/problemset/problem/1325/D [solution](https://www.cnblogs.com/stelayuri/p/12495726.html)
-
-https://codeforces.com/problemset/problem/1945/E [solution](https://blog.csdn.net/2302_80585579/article/details/137963742)
-
 https://codeforces.com/problemset/problem/1849/D [solution](https://www.acwing.com/solution/content/247240/)
 
 https://codeforces.com/problemset/problem/1688/C [solution](https://blog.csdn.net/weixin_61904259/article/details/125789252)
