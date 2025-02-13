@@ -74,6 +74,8 @@ https://codeforces.com/problemset/problem/1477/A [solution](https://blog.csdn.ne
 
 https://codeforces.com/problemset/problem/1090/D [solution](https://www.cnblogs.com/dilthey/p/10092161.html) greedy
 
+https://codeforces.com/problemset/problem/1338/B
+
 ## 1900
 https://codeforces.com/problemset/problem/1375/D [solution](https://blog.csdn.net/tomjobs/article/details/107147334)
 
