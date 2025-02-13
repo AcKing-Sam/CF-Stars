@@ -15,8 +15,6 @@ https://codeforces.com/contest/1603/problem/B [solution](https://codeforces.com/
 https://codeforces.com/problemset/problem/1687/A [solution](https://www.bilibili.com/opus/727487921631789109)
 
 ## 1700
-https://codeforces.com/problemset/problem/1849/D [solution](https://www.acwing.com/solution/content/247240/)
-
 https://codeforces.com/problemset/problem/1688/C [solution](https://blog.csdn.net/weixin_61904259/article/details/125789252)
 
 https://codeforces.com/problemset/problem/1684/D [solution](https://blog.csdn.net/Sherlock_Holmewei/article/details/124958387)
