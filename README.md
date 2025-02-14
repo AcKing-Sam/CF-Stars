@@ -17,17 +17,9 @@ https://codeforces.com/problemset/problem/1687/A [solution](https://www.bilibili
 ## 1700
 https://codeforces.com/problemset/problem/1688/C [solution](https://blog.csdn.net/weixin_61904259/article/details/125789252) *
 
-https://codeforces.com/problemset/problem/1658/C [solution](https://www.acwing.com/solution/content/166734/)
+https://codeforces.com/problemset/problem/1658/C [solution](https://www.acwing.com/solution/content/166734/) *
 
-https://codeforces.com/problemset/problem/1516/C [solution](https://www.acwing.com/solution/content/209580/)
-
-https://codeforces.com/problemset/problem/1469/D [solution](https://www.acwing.com/solution/content/171257/)
-
-https://codeforces.com/problemset/problem/1889/B [solution](https://www.acwing.com/solution/content/132992/)
-
-https://codeforces.com/problemset/problem/275/B [solution](https://www.cnblogs.com/cszlg/archive/2013/02/22/2922117.html)
-
-https://codeforces.com/problemset/problem/1085/D [solution](https://blog.csdn.net/Miracle_QSH/article/details/85229901)
+https://codeforces.com/problemset/problem/1469/D [solution](https://www.acwing.com/solution/content/171257/) * 
 
 https://codeforces.com/problemset/problem/1332/D [solution](https://blog.csdn.net/Littlewhite520/article/details/105244608)
 
@@ -94,6 +86,8 @@ https://codeforces.com/problemset/problem/862/C [solution](https://blog.csdn.net
 https://codeforces.com/problemset/problem/1704/D [solution](https://blog.csdn.net/Bananaaay/article/details/126097699)
 
 https://codeforces.com/contest/1237/problem/C2 [solution](https://blog.csdn.net/weixin_44751481/article/details/102604601) geometry *
+
+https://codeforces.com/problemset/problem/1428/D [solution](https://blog.csdn.net/tongjingqi_/article/details/109146192) implementation *
 
 ## 2000
 https://codeforces.com/problemset/problem/1951/D [solution](https://www.cnblogs.com/qiujianACM/p/18120234) greedy
