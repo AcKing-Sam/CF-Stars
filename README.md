@@ -21,7 +21,7 @@ https://codeforces.com/problemset/problem/1469/D [solution](https://www.acwing.c
 
 https://codeforces.com/problemset/problem/1332/D [solution](https://blog.csdn.net/Littlewhite520/article/details/105244608) *
 
-https://codeforces.com/problemset/problem/1706/D1 [solution](https://blog.csdn.net/qq_45554473/article/details/127872291)
+https://codeforces.com/problemset/problem/1706/D1 [solution](https://blog.csdn.net/qq_45554473/article/details/127872291) *
 
 https://codeforces.com/problemset/problem/1253/D [solution](https://blog.csdn.net/ZCMU_2024/article/details/103180498)
 
