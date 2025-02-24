@@ -89,6 +89,8 @@ https://codeforces.com/contest/1237/problem/C2 [solution](https://blog.csdn.net/
 
 https://codeforces.com/problemset/problem/1428/D [solution](https://blog.csdn.net/tongjingqi_/article/details/109146192) implementation *
 
+https://codeforces.com/problemset/problem/476/D [solution](https://www.cnblogs.com/kewowlo/p/4088328.html)
+
 ## 2000
 https://codeforces.com/problemset/problem/1951/D [solution](https://www.cnblogs.com/qiujianACM/p/18120234) greedy
 
