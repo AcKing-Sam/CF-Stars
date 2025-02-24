@@ -3,8 +3,6 @@
 ## TODO
 https://codeforces.com/problemset/problem/2040/D
 
-https://codeforces.com/problemset/problem/2040/E
-
 https://codeforces.com/contest/1904/problem/D2
 
 ## 1600
@@ -21,7 +19,7 @@ https://codeforces.com/problemset/problem/1658/C [solution](https://www.acwing.c
 
 https://codeforces.com/problemset/problem/1469/D [solution](https://www.acwing.com/solution/content/171257/) * 
 
-https://codeforces.com/problemset/problem/1332/D [solution](https://blog.csdn.net/Littlewhite520/article/details/105244608)
+https://codeforces.com/problemset/problem/1332/D [solution](https://blog.csdn.net/Littlewhite520/article/details/105244608) *
 
 https://codeforces.com/problemset/problem/1706/D1 [solution](https://blog.csdn.net/qq_45554473/article/details/127872291)
 
