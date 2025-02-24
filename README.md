@@ -23,8 +23,6 @@ https://codeforces.com/problemset/problem/1332/D [solution](https://blog.csdn.ne
 
 https://codeforces.com/problemset/problem/1706/D1 [solution](https://blog.csdn.net/qq_45554473/article/details/127872291)
 
-https://codeforces.com/problemset/problem/1893/B [solution](https://www.cnblogs.com/pure4knowledge/p/18253072)
-
 https://codeforces.com/problemset/problem/1253/D [solution](https://blog.csdn.net/ZCMU_2024/article/details/103180498)
 
 https://codeforces.com/problemset/problem/739/A [solution](https://blog.csdn.net/V5ZSQ/article/details/79859483)
