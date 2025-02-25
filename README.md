@@ -79,6 +79,8 @@ https://codeforces.com/problemset/problem/1428/D [solution](https://blog.csdn.ne
 
 https://codeforces.com/problemset/problem/476/D [solution](https://www.cnblogs.com/kewowlo/p/4088328.html)
 
+https://codeforces.com/problemset/problem/2021/C2 [solution](https://www.cnblogs.com/luckyblock/p/18451687#c2-%E8%B4%AA%E5%BF%83%E6%9E%9A%E4%B8%BE)
+
 ## 2000
 https://codeforces.com/problemset/problem/1951/D [solution](https://www.cnblogs.com/qiujianACM/p/18120234) greedy
 
