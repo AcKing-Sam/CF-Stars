@@ -23,17 +23,9 @@ https://codeforces.com/problemset/problem/1332/D [solution](https://blog.csdn.ne
 
 https://codeforces.com/problemset/problem/1706/D1 [solution](https://blog.csdn.net/qq_45554473/article/details/127872291) *
 
-https://codeforces.com/problemset/problem/1253/D [solution](https://blog.csdn.net/ZCMU_2024/article/details/103180498)
+https://codeforces.com/problemset/problem/1916/D [solution](https://blog.csdn.net/m0_59954214/article/details/138723629) *
 
-https://codeforces.com/problemset/problem/739/A [solution](https://blog.csdn.net/V5ZSQ/article/details/79859483)
-
-https://codeforces.com/problemset/problem/260/C [solution](https://blog.csdn.net/qq_41289920/article/details/84075493)
-
-https://codeforces.com/problemset/problem/1618/E [solution](https://www.acwing.com/solution/content/167129/)
-
-https://codeforces.com/problemset/problem/1916/D [solution](https://blog.csdn.net/m0_59954214/article/details/138723629)
-
-https://codeforces.com/problemset/problem/1554/B [solution](https://blog.csdn.net/INGg__/article/details/119299898)
+https://codeforces.com/problemset/problem/1554/B [solution](https://blog.csdn.net/INGg__/article/details/119299898) *
 
 https://codeforces.com/problemset/problem/1343/D [solution](https://blog.csdn.net/qq_45458915/article/details/105682206)
 
