@@ -32,7 +32,7 @@ https://codeforces.com/problemset/problem/1343/D [solution](https://blog.csdn.ne
 https://codeforces.com/problemset/problem/1625/C [solution](https://www.cnblogs.com/s1mmons/p/15808539.html) *
 
 ## 1800
-https://codeforces.com/problemset/problem/1709/C [solution](https://blog.csdn.net/QQ2530063577/article/details/125942093)
+https://codeforces.com/problemset/problem/1709/C [solution](https://blog.csdn.net/QQ2530063577/article/details/125942093) *
 
 https://codeforces.com/problemset/problem/2042/C [solution](https://www.cnblogs.com/NIYAXIMEN/p/18590793)
 
