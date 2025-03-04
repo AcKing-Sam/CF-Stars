@@ -36,7 +36,7 @@ https://codeforces.com/problemset/problem/1709/C [solution](https://blog.csdn.ne
 
 https://codeforces.com/problemset/problem/2042/C [solution](https://zhuanlan.zhihu.com/p/10349236858) *
 
-https://codeforces.com/problemset/problem/1396/B
+https://codeforces.com/problemset/problem/1396/B [solution](https://blog.csdn.net/dragonylee/article/details/108343568) game *
 
 https://codeforces.com/problemset/problem/1995/C [solution](https://www.cnblogs.com/luckyblock/p/18319949#c) math
 
