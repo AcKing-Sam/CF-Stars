@@ -34,7 +34,7 @@ https://codeforces.com/problemset/problem/1625/C [solution](https://www.cnblogs.
 ## 1800
 https://codeforces.com/problemset/problem/1709/C [solution](https://blog.csdn.net/QQ2530063577/article/details/125942093) *
 
-https://codeforces.com/problemset/problem/2042/C [solution](https://www.cnblogs.com/NIYAXIMEN/p/18590793)
+https://codeforces.com/problemset/problem/2042/C [solution]([https://www.cnblogs.com/NIYAXIMEN/p/18590793](https://zhuanlan.zhihu.com/p/10349236858)) *
 
 https://codeforces.com/problemset/problem/1396/B
 
