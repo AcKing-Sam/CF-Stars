@@ -40,6 +40,8 @@ https://codeforces.com/problemset/problem/2042/C [solution](https://zhuanlan.zhi
 
 https://codeforces.com/problemset/problem/1396/B [solution](https://blog.csdn.net/dragonylee/article/details/108343568) game *
 
+https://codeforces.com/problemset/problem/894/B [solution](https://blog.csdn.net/u013852115/article/details/78649382) combinatorics *
+
 https://codeforces.com/problemset/problem/1995/C [solution](https://www.cnblogs.com/luckyblock/p/18319949#c) math
 
 https://codeforces.com/problemset/problem/1758/D [solution](https://blog.csdn.net/weixin_40986490/article/details/128151197) math
