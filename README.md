@@ -31,6 +31,8 @@ https://codeforces.com/problemset/problem/1343/D [solution](https://blog.csdn.ne
 
 https://codeforces.com/problemset/problem/1625/C [solution](https://www.cnblogs.com/s1mmons/p/15808539.html) *
 
+https://codeforces.com/problemset/problem/193/A [solution](https://blog.csdn.net/HEU_xueyan/article/details/7632936) *
+
 https://codeforces.com/problemset/problem/2072/F TODO
 
 ## 1800
