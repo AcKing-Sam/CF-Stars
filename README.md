@@ -35,6 +35,8 @@ https://codeforces.com/problemset/problem/193/A [solution](https://blog.csdn.net
 
 https://codeforces.com/problemset/problem/2006/A [solution](https://www.cnblogs.com/cjjsb/p/18397209) game *
 
+https://codeforces.com/problemset/problem/2071/C [solution](https://zhuanlan.zhihu.com/p/27263034300) *
+
 https://codeforces.com/problemset/problem/2072/F TODO
 
 ## 1800
