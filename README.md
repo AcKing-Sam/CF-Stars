@@ -73,6 +73,8 @@ https://codeforces.com/problemset/problem/1991/D [solution](https://www.cnblogs.
 
 https://codeforces.com/problemset/problem/1895/D [solution](https://www.cnblogs.com/cjjsb/p/17809455.html) *
 
+https://codeforces.com/problemset/problem/1994/D [solution](https://www.cnblogs.com/showball/p/18393787) *
+
 https://codeforces.com/problemset/problem/1375/D [solution](https://blog.csdn.net/tomjobs/article/details/107147334)
 
 https://codeforces.com/problemset/problem/1348/D [solution](https://blog.csdn.net/starlet_kiss/article/details/105899735)
