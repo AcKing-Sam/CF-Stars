@@ -54,6 +54,8 @@ https://codeforces.com/problemset/problem/1552/D [solution](https://blog.csdn.ne
 
 https://codeforces.com/problemset/problem/1324/F [solution](https://blog.csdn.net/Cosmic_Tree/article/details/117785941) tree DP *
 
+https://codeforces.com/problemset/problem/2042/C [solution] (https://blog.csdn.net/2301_80475191/article/details/144210200) *
+
 https://codeforces.com/problemset/problem/1995/C [solution](https://www.cnblogs.com/luckyblock/p/18319949#c) math
 
 https://codeforces.com/problemset/problem/1758/D [solution](https://blog.csdn.net/weixin_40986490/article/details/128151197) math
@@ -69,8 +71,6 @@ https://codeforces.com/problemset/problem/1477/A [solution](https://blog.csdn.ne
 https://codeforces.com/problemset/problem/1090/D [solution](https://www.cnblogs.com/dilthey/p/10092161.html) greedy
 
 https://codeforces.com/problemset/problem/1338/B
-
-
 
 ## 1900
 https://codeforces.com/problemset/problem/1991/D [solution](https://www.cnblogs.com/cjjsb/p/18330970) *
