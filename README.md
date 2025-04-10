@@ -40,6 +40,8 @@ https://codeforces.com/problemset/problem/2071/C [solution](https://zhuanlan.zhi
 https://codeforces.com/problemset/problem/2072/F TODO
 
 ## 1800
+https://codeforces.com/problemset/problem/1501/C [solution](https://blog.csdn.net/qq_44691917/article/details/114882536) * time complex. analysis
+
 https://codeforces.com/problemset/problem/1554/C [solution](https://www.acwing.com/solution/content/58820/) * construction
 
 https://codeforces.com/problemset/problem/1709/C [solution](https://blog.csdn.net/QQ2530063577/article/details/125942093) *
