@@ -79,6 +79,8 @@ https://codeforces.com/problemset/problem/1090/D [solution](https://www.cnblogs.
 https://codeforces.com/problemset/problem/1338/B
 
 ## 1900
+https://codeforces.com/problemset/problem/1627/D [solution](https://www.acwing.com/solution/content/85387/) * math
+
 https://codeforces.com/problemset/problem/1328/E [solution](https://www.cnblogs.com/dgsvygd/p/16530517.html) * LCA
 
 https://codeforces.com/problemset/problem/1991/D [solution](https://www.cnblogs.com/cjjsb/p/18330970) *
