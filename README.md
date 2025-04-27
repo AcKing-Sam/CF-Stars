@@ -5,6 +5,8 @@ https://codeforces.com/problemset/problem/2040/D
 
 https://codeforces.com/contest/1904/problem/D2
 
+https://codeforces.com/problemset/problem/471/D KMP
+
 ## 1600
 https://codeforces.com/problemset/problem/1671/D [solution](https://zhuanlan.zhihu.com/p/503401313) *
  
