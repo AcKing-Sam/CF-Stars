@@ -68,6 +68,8 @@ https://codeforces.com/problemset/problem/2042/C [solution] (https://blog.csdn.n
 
 https://codeforces.com/problemset/problem/2013/D [solution](https://zhuanlan.zhihu.com/p/721240270) binary search *
 
+https://codeforces.com/problemset/problem/1732/C1 [solution](https://zhuanlan.zhihu.com/p/576544336) binary search *
+
 https://codeforces.com/problemset/problem/1995/C [solution](https://www.cnblogs.com/luckyblock/p/18319949#c) math
 
 https://codeforces.com/problemset/problem/1758/D [solution](https://blog.csdn.net/weixin_40986490/article/details/128151197) math
