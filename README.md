@@ -7,6 +7,9 @@ https://codeforces.com/contest/1904/problem/D2
 
 https://codeforces.com/problemset/problem/471/D KMP
 
+## ADD
+https://codeforces.com/contest/2108/problem/D [solution](https://zhuanlan.zhihu.com/p/1901611194315444540)
+
 ## 1600
 https://codeforces.com/problemset/problem/1671/D [solution](https://zhuanlan.zhihu.com/p/503401313) *
  
