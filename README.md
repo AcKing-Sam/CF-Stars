@@ -1,11 +1,13 @@
 # CF-Stars
 
 ## TODO
-https://codeforces.com/problemset/problem/2040/D
-
 https://codeforces.com/contest/1904/problem/D2
 
 https://codeforces.com/problemset/problem/471/D KMP
+
+https://codeforces.com/contest/2108/problem/E
+
+https://codeforces.com/contest/2107/problem/F1
 
 ## ADD
 https://codeforces.com/contest/2108/problem/D [solution](https://zhuanlan.zhihu.com/p/1901611194315444540)
