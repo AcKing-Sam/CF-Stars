@@ -12,6 +12,8 @@ https://codeforces.com/contest/2107/problem/F1
 ## ADD
 https://codeforces.com/contest/2108/problem/D [solution](https://zhuanlan.zhihu.com/p/1901611194315444540)
 
+https://codeforces.com/contest/2104/problem/E [solution](https://codeforces.com/blog/entry/142472)
+
 ## 1600
 https://codeforces.com/problemset/problem/1671/D [solution](https://zhuanlan.zhihu.com/p/503401313) *
  
