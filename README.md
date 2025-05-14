@@ -52,6 +52,8 @@ https://codeforces.com/problemset/problem/2006/A [solution](https://www.cnblogs.
 
 https://codeforces.com/problemset/problem/2071/C [solution](https://zhuanlan.zhihu.com/p/27263034300) *
 
+https://codeforces.com/problemset/problem/1695/C [solution](https://blog.nowcoder.net/n/0fd8d6bd7a314d40914ede57cb5f9375?from=nowcoder_improve) dp *
+
 https://codeforces.com/problemset/problem/2072/F TODO
 
 ## 1800
