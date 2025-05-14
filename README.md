@@ -18,6 +18,8 @@ https://codeforces.com/contest/2106/problem/F
 
 https://codeforces.com/contest/2102/problem/D [solution](https://www.zhihu.com/search?type=content&q=Codeforces%20Round%201024%20(Div.%202))
 
+https://codeforces.com/contest/2096/problem/D [solution](https://www.cnblogs.com/maburb/p/18836937)
+
 ## 1600
 https://codeforces.com/problemset/problem/1671/D [solution](https://zhuanlan.zhihu.com/p/503401313) *
  
