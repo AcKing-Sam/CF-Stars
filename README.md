@@ -20,6 +20,8 @@ https://codeforces.com/contest/2102/problem/D [solution](https://www.zhihu.com/s
 
 https://codeforces.com/contest/2096/problem/D [solution](https://www.cnblogs.com/maburb/p/18836937)
 
+https://codeforces.com/contest/2093/problem/G [solution](https://www.cnblogs.com/maburb/p/18815773) 01-trie
+
 ## 1600
 https://codeforces.com/problemset/problem/1671/D [solution](https://zhuanlan.zhihu.com/p/503401313) *
  
