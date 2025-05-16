@@ -10,6 +10,8 @@ https://codeforces.com/contest/2108/problem/E
 https://codeforces.com/contest/2107/problem/F1
 
 ## TO ADD
+https://codeforces.com/contest/2091/problem/E [solution](https://www.cnblogs.com/maburb/p/18792664)
+
 https://codeforces.com/contest/2108/problem/D [solution](https://zhuanlan.zhihu.com/p/1901611194315444540)
 
 https://codeforces.com/contest/2104/problem/E [solution](https://codeforces.com/blog/entry/142472)
