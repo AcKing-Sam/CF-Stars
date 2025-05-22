@@ -95,6 +95,8 @@ https://codeforces.com/problemset/problem/1732/C1 [solution](https://zhuanlan.zh
 
 https://codeforces.com/problemset/problem/1793/D [solution](https://zhuanlan.zhihu.com/p/605848036) *
 
+https://codeforces.com/contest/2071/problem/D1 [solution](https://blog.csdn.net/qq_68286180/article/details/145950553) *
+
 https://codeforces.com/problemset/problem/1995/C [solution](https://www.cnblogs.com/luckyblock/p/18319949#c) math
 
 https://codeforces.com/problemset/problem/1758/D [solution](https://blog.csdn.net/weixin_40986490/article/details/128151197) math
