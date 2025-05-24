@@ -24,6 +24,9 @@ https://codeforces.com/contest/2096/problem/D [solution](https://www.cnblogs.com
 
 https://codeforces.com/contest/2093/problem/G [solution](https://www.cnblogs.com/maburb/p/18815773) 01-trie
 
+## 1500
+https://codeforces.com/contest/2069/problem/C [solution](https://blog.csdn.net/2301_80475191/article/details/145724343) dp *
+
 ## 1600
 https://codeforces.com/problemset/problem/1671/D [solution](https://zhuanlan.zhihu.com/p/503401313) *
  
