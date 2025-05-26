@@ -121,6 +121,8 @@ https://codeforces.com/problemset/problem/1870/D [solution](https://www.cnblogs.
 https://codeforces.com/problemset/problem/1338/B
 
 ## 1900
+https://codeforces.com/contest/2064/problem/D [solution](https://www.cnblogs.com/udiandianis/p/18724561) bitmask *
+
 https://codeforces.com/problemset/problem/1627/D [solution](https://www.acwing.com/solution/content/85387/) * math
 
 https://codeforces.com/problemset/problem/1328/E [solution](https://www.cnblogs.com/dgsvygd/p/16530517.html) * LCA
