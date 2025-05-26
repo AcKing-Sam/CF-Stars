@@ -121,6 +121,8 @@ https://codeforces.com/problemset/problem/1870/D [solution](https://www.cnblogs.
 https://codeforces.com/problemset/problem/1338/B
 
 ## 1900
+https://codeforces.com/contest/2059/problem/D [solution](https://zhuanlan.zhihu.com/p/21080237051) construction *
+
 https://codeforces.com/contest/2064/problem/D [solution](https://www.cnblogs.com/udiandianis/p/18724561) bitmask *
 
 https://codeforces.com/problemset/problem/1627/D [solution](https://www.acwing.com/solution/content/85387/) * math
